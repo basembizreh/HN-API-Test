@@ -1,0 +1,6 @@
+@HN_API_Test_HostAddress = http://localhost:5276
+
+GET {{HN_API_Test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
